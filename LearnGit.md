@@ -66,7 +66,7 @@
 
 ### 原理说明
 
-![alt 原理](C:\纪念性文件\技术部的笔试\10.10\0.jpg)
+![alt 原理](https://static.liaoxuefeng.com/files/attachments/919020037470528/0)
 
 * **工作区、暂存区和版本库**
   1. 工作区（Working Directory）：电脑里能看见的目录
