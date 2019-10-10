@@ -72,7 +72,7 @@
   1. 工作区（Working Directory）：电脑里能看见的目录
   2. 暂存区（Stage）：`git add <file>` 后 `git commit` 前，文件修改存放的地方
   3. 版本库（Repository）：版本库里包含了暂存区和commit过的修改
-* **HEAD **
+* **HEAD**
   1. `HEAD `是一个**指针**，它指向当前最新的版本
   2. `HEAD^` 表示上一个版本`HEAD^^` ，`HEAD ~100` 表示上100个版本
 
